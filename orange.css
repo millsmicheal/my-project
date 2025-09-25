@@ -9,14 +9,15 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #E5F985;
+    background: #FFD9A9;
+    
 }
 .container{
     width: 80%;
     height: 90%;
-    background: radial-gradient(circle, rgba(229, 249, 133, 1) 0%, rgba(130, 175, 56, 1) 60%);
     border-radius: 50px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    background: radial-gradient(circle,rgba(255, 217, 169, 1) 0%, rgba(233, 155, 55, 1) 48%);
 }
 .header{
     width: 85%;
@@ -80,7 +81,7 @@ h2{
 span{
     color: #fff;
     border-radius: 50%;
-    background-color: #677E40;
+    background-color: #D2821B;
     width: 35px;
     height: 35px;
     display: flex;
@@ -93,9 +94,9 @@ span{
 }
 .lime2{
     position: absolute;
-    width: 30%;
-    right: 20%;
-    bottom: 29%;
+    width: 25%;
+    right: 25%;
+    bottom: 37%;
 }
 .lime3{
     position: absolute;
